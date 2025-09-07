@@ -95,3 +95,6 @@ const PORT = process.env.PORT || 5050;
 app.listen(PORT, () => {
   console.log(`✅ Server running on port ${PORT}`);
 });
+
+The key fingerprint is:
+SHA256:IxMEiIBXdLaQ2WU4u9sbubMLloeCCQYvWvDp+SaxvQY github-actions-deploy
